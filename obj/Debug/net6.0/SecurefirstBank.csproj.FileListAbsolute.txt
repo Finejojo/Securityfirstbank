@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\SecurefirstBank.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\SecurefirstBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\SecurefirstBank.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\SecurefirstBank.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\SecurefirstBank.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\bin\Debug\net6.0\SecurefirstBank.exe
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\bin\Debug\net6.0\SecurefirstBank.deps.json
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\bin\Debug\net6.0\SecurefirstBank.runtimeconfig.json
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\bin\Debug\net6.0\SecurefirstBank.dll
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\bin\Debug\net6.0\SecurefirstBank.pdb
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\SecurefirstBank.dll
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\refint\SecurefirstBank.dll
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\SecurefirstBank.pdb
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\SecurefirstBank.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Codes\SecurefirstBank\obj\Debug\net6.0\ref\SecurefirstBank.dll

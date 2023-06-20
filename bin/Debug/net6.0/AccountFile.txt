@@ -1,0 +1,11 @@
+| joe | 236320962 | Savings | 6000 |
+| theo Shaibu | 162178372 | Current | 0 |
+| theo Shaibu | 238869164 | Savings | 6000 |
+| joe | 147304000 | Savings | 90003400 |
+| joe | 216723620 | Savings | 4000 |
+| joe | 40819031 | Savings | 70003000 |
+| joe | 27609583 | Savings | 10000 |
+| joe | 153325688 | Savings | 650000 |
+| joe | 155903206 | Current | 55000 |
+| joe | 245939337 | Savings | 30000 |
+| joe | 59286477 | Savings | -245934337 |
